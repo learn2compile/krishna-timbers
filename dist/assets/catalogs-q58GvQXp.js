@@ -1,0 +1,6 @@
+import{c as a}from"./index-BxXE_H7f.js";/**
+ * @license lucide-react v0.344.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const r=a("FileText",[["path",{d:"M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z",key:"1rqfz7"}],["path",{d:"M14 2v4a2 2 0 0 0 2 2h4",key:"tnqrlb"}],["path",{d:"M10 9H8",key:"b1mrlr"}],["path",{d:"M16 13H8",key:"t4e002"}],["path",{d:"M16 17H8",key:"z1uh3a"}]]),t=[{id:"doors",name:"Door Catalog",description:"Explore our collection of modern, traditional, carved, and premium doors.",thumbnail:"/assets/images/catalogs/doors-thumb.jpg",pdfUrl:"/assets/catalogs/doors.pdf",pageCount:24,category:"Doors"},{id:"frames",name:"Frame Catalog",description:"Browse our range of door frames, window frames, and architectural frames.",thumbnail:"/assets/images/catalogs/frames-thumb.jpg",pdfUrl:"/assets/catalogs/frames.pdf",pageCount:16,category:"Frames"},{id:"furniture",name:"Furniture Catalog",description:"Discover our custom furniture designs for homes and offices.",thumbnail:"/assets/images/catalogs/furniture-thumb.jpg",pdfUrl:"/assets/catalogs/furniture.pdf",pageCount:20,category:"Furniture"}];export{r as F,t as c};
