@@ -1,0 +1,12 @@
+node_modules
+dist
+.vercel
+test-results
+playwright-report
+coverage
+
+.env
+.env.local
+
+.vscode/*
+!.vscode/settings.json
